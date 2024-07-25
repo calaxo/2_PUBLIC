@@ -32,3 +32,6 @@
 [pour afficher des cours pptx/pdf sur moodle](https://github.com/calaxo/PPTXToMoodleCourses)
 
 ### LOCAL
+
+
+:EMOJICODE:
