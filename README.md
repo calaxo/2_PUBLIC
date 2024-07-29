@@ -38,11 +38,13 @@
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) [BACK](https://github.com/calaxo/user-script-BACK)
 
+#### [compteur de personne](https://github.com/calaxo/gathervent)
+
 ### DIVERSE
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [pour afficher des cours pptx/pdf sur moodle](https://github.com/calaxo/PPTXToMoodleCourses)
+#### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [pour afficher des cours pptx/pdf sur moodle](https://github.com/calaxo/PPTXToMoodleCourses)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [manipulation de xml pour créer des fichier e5x](https://github.com/calaxo/e5x)
+#### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [manipulation de xml pour créer des fichier e5x](https://github.com/calaxo/e5x)
 
 ### LOCAL
 
