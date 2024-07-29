@@ -2,7 +2,7 @@
 
 ## universitaire : 
 
- -  BUT GEII IUT d'Angouême
+ -  BUT GEII IUT d'Angouême:
      - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) [un site de portfolio pour presenter mes projet geii](https://github.com/calaxo/GEII-portfolio)
 
      - projets:
@@ -14,15 +14,15 @@
 
          - ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) [le code qui va dans le microcontrolleur stm32](https://github.com/calaxo/SAE-arduino)
 
- - INGENIEUR INFORMATIQUE
+ - INGENIEUR INFORMATIQUE:
 
-## PRESENTATION
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) [site portfolio](https://github.com/calaxo/DEV-portfolio)
 
 ## PROJET OPENSOURCE DIVERSE
 
 ### WEB
+
+#### ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) [site de base](https://github.com/calaxo/Base-Site)
 
 #### lancement de script pour utilisateur via web
 
@@ -32,6 +32,7 @@
 
 #### [compteur de personne](https://github.com/calaxo/gathervent)
 
+### 
 ### DIVERSE
 
 #### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [pour afficher des cours pptx/pdf sur moodle](https://github.com/calaxo/PPTXToMoodleCourses)
