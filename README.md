@@ -6,7 +6,7 @@
      - portfolio
        ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) [un site de portfolio pour presenter mes projet geii](https://github.com/calaxo/GEII-portfolio)
 
-#### projet
+     - projet
 
 ##### projet IOT 3eme année
 ###### le site:
