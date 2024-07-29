@@ -2,7 +2,7 @@
 
 ## universitaire
 
-### BUT GEII IUT d'Agnoulême
+### BUT GEII IUT d'Angouême
 
 #### portfolio
 
