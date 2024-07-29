@@ -22,16 +22,16 @@
 
 - WEB
 
-#### ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) [site de base](https://github.com/calaxo/Base-Site)
+ -  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) [site de base](https://github.com/calaxo/Base-Site)
 
-#### lancement de script pour utilisateur via web
+ -  lancement de script pour utilisateur via web
 
- - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) [FRONT](https://github.com/calaxo/user-script-FRONT)
+  - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) [FRONT](https://github.com/calaxo/user-script-FRONT)
 
- - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) [BACK](https://github.com/calaxo/user-script-BACK)
+  - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) [BACK](https://github.com/calaxo/user-script-BACK)
 
-#### [compteur de personne](https://github.com/calaxo/gathervent)
-
+  - [compteur de personne](https://github.com/calaxo/gathervent)
+  - [réalité augmentée pour info switch](https://github.com/calaxo/pARtch)
 
 - DIVERSE
 
