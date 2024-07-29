@@ -1,8 +1,8 @@
 # 2_PUBLIC
 
-## universitaire
+## universitaire : 
 
-### BUT GEII IUT d'Angouême
+ -  BUT GEII IUT d'Angouême
 
 #### portfolio
 
@@ -20,7 +20,7 @@
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) [le code qui va dans le microcontrolleur stm32](https://github.com/calaxo/SAE-arduino)
 
-### INGENIEUR INFORMATIQUE
+ - INGENIEUR INFORMATIQUE
 
 ## PRESENTATION
 
