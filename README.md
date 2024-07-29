@@ -3,8 +3,7 @@
 ## universitaire : 
 
  -  BUT GEII IUT d'Angouême
-     - portfolio
-       ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) [un site de portfolio pour presenter mes projet geii](https://github.com/calaxo/GEII-portfolio)
+     - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) [un site de portfolio pour presenter mes projet geii](https://github.com/calaxo/GEII-portfolio)
 
      - projets:
        - projet IOT 3eme année
@@ -13,8 +12,7 @@
 
            - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) [BACK](https://github.com/calaxo/SAE-back)
 
-         - le code arduino
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) [le code qui va dans le microcontrolleur stm32](https://github.com/calaxo/SAE-arduino)
+         - ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) [le code qui va dans le microcontrolleur stm32](https://github.com/calaxo/SAE-arduino)
 
  - INGENIEUR INFORMATIQUE
 
