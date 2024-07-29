@@ -18,7 +18,7 @@
 
 ###### le code arduino
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [pour encoder du  html en string mais plus optomisé](https://github.com/calaxo/arduinoifier)
+
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) [le code qui va dans le microcontrolleur stm32](https://github.com/calaxo/SAE-arduino)
 
